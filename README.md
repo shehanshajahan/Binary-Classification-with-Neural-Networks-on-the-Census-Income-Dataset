@@ -4,6 +4,8 @@
 This project implements a tabular deep learning model that processes census data with categorical and continuous features. The model uses embedding layers for categorical variables (workclass, education, marital status, etc.) and batch normalization for continuous variables (age, hours per week, etc.) to predict income levels.
 
 ## Code
+## Name: Shehan Shajahan
+## Reg No: 212223240154
 
 ``` python
 import pandas as pd
@@ -184,7 +186,8 @@ predict_income(
 # Output
 
 
-![alt text](image.png)
+<img width="472" height="286" alt="image" src="https://github.com/user-attachments/assets/beaaeba6-2801-4ad5-b315-e0608c63bbfc" />
+
 
 
 # Result:
